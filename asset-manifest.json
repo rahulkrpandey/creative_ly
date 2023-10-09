@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/creative_ly/static/css/main.6475ffdf.css",
+    "main.js": "/creative_ly/static/js/main.61dfbadd.js",
+    "index.html": "/creative_ly/index.html",
+    "main.6475ffdf.css.map": "/creative_ly/static/css/main.6475ffdf.css.map",
+    "main.61dfbadd.js.map": "/creative_ly/static/js/main.61dfbadd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6475ffdf.css",
+    "static/js/main.61dfbadd.js"
+  ]
+}
